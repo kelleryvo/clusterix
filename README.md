@@ -18,6 +18,8 @@ Such an iterative, visual analytics approach allows users to quickly determine t
 
 ## Usage
 
+Recommendation: Use a python virtualenv on version 3.6
+
 First you need to install the requirements:
 
 `pip install -r requirements.txt`
