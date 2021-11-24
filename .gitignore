@@ -88,3 +88,5 @@ target/
 
 # IntelliJ
 /out/
+
+.vscode
